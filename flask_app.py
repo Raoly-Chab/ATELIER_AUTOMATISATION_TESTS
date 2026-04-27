@@ -6,7 +6,7 @@ app = Flask(__name__)
 
 # --- CONFIGURATION ---
 # Remplacez par l'URL de l'API que vous avez choisie
-API_URL = "https://api.zippopotam.us/fr/75001" 
+API_URL = "https://api.zippopotam.us/fr/750019999999999999999999999999999" 
 
 @app.route('/')
 def dashboard():
