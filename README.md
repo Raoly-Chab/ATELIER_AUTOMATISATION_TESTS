@@ -74,3 +74,5 @@ Vos log sont accéssible via les URL suivantes :
 * Access log : {site}.pythonanywhere.com.access.log
 * Error log : {site}.pythonanywhere.com.error.log
 * Server log: {site}.pythonanywhere.com.server.log
+  <img width="1247" height="963" alt="image" src="https://github.com/user-attachments/assets/c92b60ce-d5a9-423c-b254-2d13fe361673" />
+
